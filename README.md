@@ -11,6 +11,7 @@
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.raganeta.easybeeper">Google Play</a> ·
+  <a href="https://github.com/Kasheftin/easy-beeper">Source</a> ·
   <a href="https://raganeta.com/privacy.html">Privacy policy</a>
 </p>
 
