@@ -39,3 +39,10 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# IDE / agent config
+.idea/
+.claude/
+
+# regenerated icon outputs (sources live in store/make_icons.py and assets/)
+store/out/
